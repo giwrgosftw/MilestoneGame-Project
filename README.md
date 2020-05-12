@@ -3,5 +3,5 @@ The game was written in Java by using NetBeans IDE with the JBox2D engine. As in
 
 Do not forget to add the libraries before to start the game (use the folder "Libraries")! Check here how: https://www.youtube.com/watch?v=vqhQY7U9Rlc&feature=youtu.be
 
-# Video link: 
+# Video link Gameplay: 
 https://www.youtube.com/watch?v=Kr5E7mcXuXA
